@@ -18,3 +18,6 @@ function draw() {
 }
 
 // w3schools color picker: https://www.w3schools.com/colors/colors_picker.asp
+
+// What I have made here is something that starts to play with the strokeWeight around the outside of a shape, something that
+// think can unlock a lot of interesting design possibilities 
